@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and UI/UX design
 - 🌱 I’m currently learning software engineering @UTM
 - 💞️ Mostly self-taught
-- 📫 Reach me via insta: youngmi.sha
+  
 
 <!---
 farishafadzly/farishafadzly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
